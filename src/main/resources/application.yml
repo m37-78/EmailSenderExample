@@ -14,4 +14,3 @@ spring:
           writetimeout: 5000
           starttls:
             enable: true
-#https://github.com/m37-78/EmailSenderExample.git
